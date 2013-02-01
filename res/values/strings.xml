@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoList</string>
+    <string name="title_task_detail">Task Detail</string>
+    <string name="signing_in">Signing in</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signing_up">Signing Up</string>
+    <string name="email">Email</string>
+    <string name="firstname">FirstName</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="create_a_new_list">Create a new List</string>
+    <string name="task_title">Task Title</string>
+    <string name="completion_date">Completion Date</string>
+    <string name="add_task">Add Task</string>
+
+</resources>
